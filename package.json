@@ -1,0 +1,17 @@
+{
+  "name": "baekwoo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "sass": "^1.26.10",
+    "sass-loader": "^9.0.2",
+    "webpack": "^4.44.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "watch-sass": "sass --watch src/scss/baekwoo.scss src/scss/baekwoo.css --no-source-map"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

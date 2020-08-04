@@ -1,0 +1,61 @@
+@charset "utf-8";
+
+@font-face{
+	font-family:"NotoSans-Thin";
+	src:url('../font/NotoSans-Thin.eot');
+	src:url('../font/NotoSans-Thin.eot?#iefix') format('embedded-opentype'),
+	url('../font/NotoSans-Thin.woff') format('woff'),
+	url('../font/NotoSans-Thin.otf') format('opentype');
+	url('../font/NotoSans-Thin.ttf') format('truetype');
+	src:local('?'), url('../font/NotoSans-Thin.woff') format('woff');
+}
+
+@font-face{
+	font-family:"NotoSans-Light";
+	src:url('../font/NotoSans-Light.eot');
+	src:url('../font/NotoSans-Light.eot?#iefix') format('embedded-opentype'),
+	url('../font/NotoSans-Light.woff') format('woff'),
+	url('../font/NotoSans-Light.otf') format('opentype');
+	url('../font/NotoSans-Light.ttf') format('truetype');
+	src:local('?'), url('../font/NotoSans-Light.woff') format('woff');
+}
+
+@font-face{
+	font-family:"NotoSans-Regular";
+	src:url('../font/NotoSans-Regular.eot');
+	src:url('../font/NotoSans-Regular.eot?#iefix') format('embedded-opentype'),
+	url('../font/NotoSans-Regular.woff') format('woff'),
+	url('../font/NotoSans-Regular.otf') format('opentype');
+	url('../font/NotoSans-Regular.ttf') format('truetype');
+	src:local('?'), url('../font/NotoSans-Regular.woff') format('woff');
+}
+
+@font-face{
+	font-family:"NotoSans-Medium";
+	src:url('../font/NotoSans-Medium.eot');
+	src:url('../font/NotoSans-Medium.eot?#iefix') format('embedded-opentype'),
+	url('../font/NotoSans-Medium.woff') format('woff'),
+	url('../font/NotoSans-Medium.otf') format('opentype');
+	url('../font/NotoSans-Medium.ttf') format('truetype');
+	src:local('?'), url('../font/NotoSans-Medium.woff') format('woff');
+}
+
+@font-face{
+	font-family:"NotoSans-Bold";
+	src:url('../font/NotoSans-Bold.eot');
+	src:url('../font/NotoSans-Bold.eot?#iefix') format('embedded-opentype'),
+	url('../font/NotoSans-Bold.woff') format('woff'),
+	url('../font/NotoSans-Bold.otf') format('opentype');
+	url('../font/NotoSans-Bold.ttf') format('truetype');
+	src:local('?'), url('../font/NotoSans-Bold.woff') format('woff');
+}
+
+@font-face{
+	font-family:"NotoSans-Black";
+	src:url('../font/NotoSans-Black.eot');
+	src:url('../font/NotoSans-Black.eot?#iefix') format('embedded-opentype'),
+	url('../font/NotoSans-Black.woff') format('woff'),
+	url('../font/NotoSans-Black.otf') format('opentype');
+	url('../font/NotoSans-Black.ttf') format('truetype');
+	src:local('?'), url('../font/NotoSans-Black.woff') format('woff');
+}
